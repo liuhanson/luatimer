@@ -1,4 +1,5 @@
 require "AudioEngine" 
+-- git commit test
 
 -- for CCLuaEngine traceback
 function __G__TRACKBACK__(msg)
